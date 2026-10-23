@@ -1,4 +1,4 @@
-# PhotoClone — un éditeur d'images façon Photoshop (Qt5 + OpenCV, Linux)
+# PictureShop — un éditeur d'images façon Photoshop (Qt5 + OpenCV, Linux)
 
 Éditeur raster en C++17 : calques, masques, sélections, filtres, réglages colorimétriques, texte, historique,
 espace de travail à onglets/panneaux, raccourcis clavier identiques à Photoshop.
