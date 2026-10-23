@@ -1,4 +1,4 @@
-# PhotoClone — a Photoshop-like image editor (Qt5 + OpenCV, Linux)
+# Pictureshop — a Photoshop-like image editor (Qt5 + OpenCV, Linux)
 
 ![a friends drawing](/logoclone.jpg)
 
